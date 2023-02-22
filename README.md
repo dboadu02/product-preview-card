@@ -55,7 +55,6 @@ I'm very keen in learning everything that comes my way so as to better my coding
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@_borntowin1](https://www.twitter.com/_borntowin1)
 
 
